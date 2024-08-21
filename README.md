@@ -39,7 +39,7 @@ For questions, feedback, or collaboration inquiries, feel free to reach out to m
 
 - **Email:** [safiyakhalid.bus@gmail.com](mailto:safiyakhalid.bus@gmail.com)
 - **LinkedIn:** [linkedin.com/in/safiya-khalid/](https://www.linkedin.com/in/safiya-khalid/)
-- 
+
 Looking forward to connecting with you!
 
 
