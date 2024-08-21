@@ -1,1 +1,4 @@
-
+blynk-library-python==0.2.0
+blynklib==0.2.6
+paho-mqtt==2.1.0
+RPi.GPIO==0.7.1
