@@ -6,8 +6,6 @@ Welcome to the repository showcasing various IoT projects created using Raspberr
 
 1. [Initial Blynk Setup](SETUP_blynk.md)
 2. [LED Control Using Blynk and Raspberry Pi](led_control/README.md)
-3. [License](LICENSE)
-4. [Contact](#contact)
 
 ## License
 
