@@ -63,4 +63,3 @@ For questions, feedback, or collaboration inquiries, feel free to reach out to m
 ## Acknowledgments
 
 - Special thanks to the [Blynk community](https://community.blynk.cc/) for their support and resources.
-```
