@@ -38,7 +38,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions, feedback, or collaboration inquiries, feel free to reach out to me:
 
 - **Email:** [safiyakhalid.bus@gmail.com](mailto:safiyakhalid.bus@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/safiya-khalid/)
+- **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/safiya-khalid/)](https://www.linkedin.com/in/safiya-khalid/)
 - 
 Looking forward to connecting with you!
 
