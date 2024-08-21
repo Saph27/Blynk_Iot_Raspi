@@ -4,8 +4,8 @@ Welcome to the repository showcasing various IoT projects created using Raspberr
 ## Table of Contents
 
 1. [LED Control Using Blynk and Raspberry Pi](#led-control-using-blynk-and-raspberry-pi)
-6. [License](#license)
-7. [Contact](#contact)
+2. [License](#license)
+3. [Contact](#contact)
 
 ## LED Control Using Blynk and Raspberry Pi
 
@@ -28,6 +28,20 @@ This project demonstrates how to control an LED remotely using the Blynk IoT pla
 
 ### Code
 [See the LED Control Project Code](./led_control/README.md)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions, feedback, or collaboration inquiries, feel free to reach out to me:
+
+- **Email:** [safiyakhalid.bus@gmail.com](mailto:safiyakhalid.bus@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/safiya-khalid/)
+- 
+Looking forward to connecting with you!
+
 
 
 
