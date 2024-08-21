@@ -3,31 +3,23 @@ Welcome to the repository showcasing various IoT projects created using Raspberr
 
 ## Table of Contents
 
-1. [LED Control Using Blynk and Raspberry Pi](#led-control-using-blynk-and-raspberry-pi)
-2. [License](#license)
-3. [Contact](#contact)
+1. [Initial Blynk Setup](#initial-blynk-setup)
+2. [LED Control Using Blynk and Raspberry Pi](#led-control-using-blynk-and-raspberry-pi)
+3. [License](#license)
+4. [Contact](#contact)
+   
+## Initial Blynk Setup
+
+Before diving into the individual projects, ensure that you have set up Blynk on your Raspberry Pi. For detailed setup instructions, please refer to the [Initial Blynk Setup Guide](./SETUP_blynk.md).
 
 ## LED Control Using Blynk and Raspberry Pi
 
 ### Overview
+
 This project demonstrates how to control an LED remotely using the Blynk IoT platform and a Raspberry Pi.
 
-### Components
-- Raspberry Pi
-- LED
-- Resistor
-- Breadboard and jumper wires
-- Internet connection
-- Blynk app
+For detailed instructions on setting up and running this project, please refer to the [LED Control Project Guide](./led_control/README.md).
 
-### Setup Instructions
-1. **Hardware Setup:** Connect the LED to the Raspberry Pi.
-2. **Blynk Setup:** Create a Blynk project and obtain the Auth Token.
-3. **Raspberry Pi Configuration:** Install the Blynk library and configure the script.
-4. **Running the Code:** Execute the Python script on your Raspberry Pi.
-
-### Code
-[See the LED Control Project Code](./led_control/README.md)
 
 ## License
 
