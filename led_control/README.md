@@ -64,5 +64,3 @@ For questions, feedback, or collaboration inquiries, feel free to reach out to m
 
 - Special thanks to the [Blynk community](https://community.blynk.cc/) for their support and resources.
 ```
-
-Feel free to adjust any sections according to the specifics of your project and audience.
